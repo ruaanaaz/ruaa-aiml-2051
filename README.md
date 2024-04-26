@@ -9,4 +9,5 @@ artificial inteligence labs :
 6. [lab 6](https://github.com/ruaanaaz/ruaa-aiml-2051/blob/main/2203a52051_lab6.ipynb)
 7. [lab 7](https://github.com/ruaanaaz/ruaa-aiml-2051/blob/main/2203a52051_lab7.ipynb)
 8. [lab 8](https://github.com/ruaanaaz/ruaa-aiml-2051/blob/main/2203a52051_lab8_aiml.ipynb)
+9. [lab 9](https://github.com/ruaanaaz/ruaa-aiml-2051/blob/main/2203A52051_lab9_aiml.ipynb)
 
